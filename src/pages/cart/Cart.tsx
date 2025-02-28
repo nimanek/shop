@@ -11,6 +11,7 @@ function Cart() {
 
   const { cartItems } = useContext(ShoppingCartContext)
 
+  
 
 
   return (
